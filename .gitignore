@@ -3,7 +3,6 @@
 
 # Ignore Gradle specific files.
 .gradle
-gradle
 
 # Ignore application build output.
 build
